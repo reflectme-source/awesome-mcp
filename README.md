@@ -116,6 +116,7 @@ The **Model Context Protocol (MCP)** is a standardized way to let AI agents (lik
 
 | Name     | Description  |
 |---|---|
+| **[AcqPath](https://github.com/reflectme-source/acqpath-distribution)** | Remote MCP for signed, timestamped source-rights observations used in RAG, indexing, training, search, and AI input workflows. |
 | **E2B** | Allows LLMs to securely execute code inside cloud-based sandboxes. |
 | **JSON Resume** | Automatically updates your resume as you develop new projects and skills. |
 
